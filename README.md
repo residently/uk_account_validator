@@ -13,10 +13,10 @@ Requires Ruby > 2.0.0
 
 ## Data sources
 
-- `valacdos.txt` (modulus weight table): https://www.vocalink.com/media/nrmfic3y/valacdos.txt
+- `valacdos.txt` (modulus weight table): https://www.vocalink.com/media/ihwjctgf/valacdos.txt
 - `scsubtab.txt` (sort code substitution table): https://www.vocalink.com/media/tedlwtxz/scsubtab.txt
 
-VocaLink publishes updates roughly quarterly. Last updated: 2026-07-24.
+VocaLink publishes updates roughly quarterly. Last updated: 2026-11-10.
 
 ## Usage
 

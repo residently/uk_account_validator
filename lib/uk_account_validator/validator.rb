@@ -64,7 +64,7 @@ module UkAccountValidator
       case
       when exception_strings.include?('1')
         Exception1
-      when exception_strings.include?('2') && exception_strings.include?('9')
+      when exception_strings.include?('2')
         Exception29
       when exception_strings.include?('3')
         Exception3
