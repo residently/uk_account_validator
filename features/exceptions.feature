@@ -30,6 +30,7 @@ Feature: Exceptions
     | 20   | Exception 2 & 9 where the first check fails and second check passes with substitution.                           | 309070   | 12345668      |
     | 21   | Exception 2 & 9 where a!=0 and g!=9 and passes.                                                                  | 309070   | 12345677      |
     | 22   | Exception 2 & 9 where a!=0 and g=9 and passes.                                                                   | 309070   | 99345694      |
+    | -    | Exception 2 with no exception 9 row where a!=0 and g!=9 and passes.                                              | 303535   | 12345678      |
     | 31   | Exception 12/13 where passes modulus 11 check                                                                    | 074456   | 12345112      |
     | 32   | Exception 12/13 where passes the modulus 11 check                                                                | 070116   | 34012583      |
     | 33   | Exception 12/13 where fails the modulus 11 check, but passes the modulus 10 check.                               | 074456   | 11104102      |
